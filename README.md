@@ -45,7 +45,7 @@ Find the shortest path through complex mazes using the A* search algorithm with 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/maze-path-planning.git
+git clone https://github.com/AmirHosseinOsooli/Maze-path-planning.git
 cd maze-path-planning
 
 # Install dependencies
@@ -523,19 +523,6 @@ Contributions welcome! Areas for improvement:
 - **GIF Export**: [Matplotlib Animation Examples](https://matplotlib.org/stable/gallery/animation/simple_scatter.html)
 - **Technique**: Animated scatter saved as GIF
 
-### Academic References
-1. **Hart, P.E., Nilsson, N.J., Raphael, B. (1968)**  
-   "A Formal Basis for the Heuristic Determination of Minimum Cost Paths"  
-   *IEEE Transactions on Systems Science and Cybernetics* 4(2): 100-107
-
-2. **Russell, S., Norvig, P.**  
-   *Artificial Intelligence: A Modern Approach* (Chapter 3: Solving Problems by Searching)
-
-### Tutorials
-- [Wikipedia: A* Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-- [Red Blob Games: A* Tutorial](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
-- [GeeksforGeeks: A* Algorithm](https://www.geeksforgeeks.org/a-search-algorithm/)
-
 ---
 
 ## 📄 License
@@ -565,8 +552,8 @@ https://github.com/AtsushiSakai/PythonRobotics
 
 ## 📞 Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/maze-path-planning/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/maze-path-planning/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/AmirHosseinOsooli/Maze-path-planning/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/AmirHosseinOsooli/Maze-path-planning/discussions)
 - 📖 **Documentation**: [docs/ALGORITHM.md](docs/ALGORITHM.md)
 - 📧 **Email**: your.email@example.com
 
