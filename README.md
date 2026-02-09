@@ -581,7 +581,6 @@ This project is perfect for:
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.0%2B-green.svg)](https://opencv.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**[Examples](#usage-examples)** • **[Documentation](docs/ALGORITHM.md)** • **[Contributing](#contributing)**
 
 **Version 1.0.0** | **2026** | **MIT License**
 
