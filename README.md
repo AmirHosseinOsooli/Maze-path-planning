@@ -14,7 +14,6 @@ Find the shortest path through complex mazes using the A* search algorithm with 
 ## 📸 Demo
 
 <div align="center">
-  <img src="examples/maze_input.png" alt="Maze Input" width="50%">
   <img src="assets/a_star_animation.gif" alt="Path Finding Animation" width="50%">
   <p><em>Left: Input maze image | Right: A* pathfinding in action (GIF output)</em></p>
 </div>
