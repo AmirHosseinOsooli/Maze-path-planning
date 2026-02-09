@@ -556,8 +556,6 @@ https://github.com/AtsushiSakai/PythonRobotics
 ## 📞 Support
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/AmirHosseinOsooli/Maze-path-planning/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/AmirHosseinOsooli/Maze-path-planning/discussions)
-- 📖 **Documentation**: [docs/ALGORITHM.md](docs/ALGORITHM.md)
 - 📧 **Email**: amirh.osooli@gmail.com
 
 ---
