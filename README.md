@@ -537,6 +537,10 @@ Based on PythonRobotics by Atsushi Sakai
 https://github.com/AtsushiSakai/PythonRobotics
 ```
 
+## 👤 Author
+
+**AmirHossein Osooli**
+- Project: Maze Path Planning
 ---
 
 ## 🙏 Acknowledgments
@@ -554,7 +558,7 @@ https://github.com/AtsushiSakai/PythonRobotics
 - 🐛 **Issues**: [GitHub Issues](https://github.com/AmirHosseinOsooli/Maze-path-planning/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/AmirHosseinOsooli/Maze-path-planning/discussions)
 - 📖 **Documentation**: [docs/ALGORITHM.md](docs/ALGORITHM.md)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: amirh.osooli@gmail.com
 
 ---
 
