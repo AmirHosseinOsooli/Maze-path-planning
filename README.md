@@ -540,7 +540,7 @@ https://github.com/AtsushiSakai/PythonRobotics
 ## 👤 Author
 
 **AmirHossein Osooli**
-- Project: Maze Path Planning
+- Maze Path Planning Project
 ---
 
 ## 🙏 Acknowledgments
